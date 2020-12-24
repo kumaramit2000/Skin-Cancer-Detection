@@ -24,7 +24,7 @@ I have used `resnext101_32x8d` with pretrained weights for training and classifi
 Clone the repositiory on your local machine.
 
 ``` Batchfile
-git clone https://github.com/ishanrai05/skin-cancer-prediction
+    https://github.com/kumaramit2000/Skin-Cancer-Detection.git
 ```
 
 Start a virtual environment using python3
